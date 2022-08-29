@@ -11,42 +11,34 @@ https://github.com/ppedvAG/Moderne_WebApplikationen_KW35_ppedv.git
 - [ ] Echtzeitfähigkeit
 - [ ] Offline-Fähigkeit
 
-# SOLID
-- [ ] SOLID Regeln 
-- [ ] Vorteile von Lose Koppelungen 
-- [ ] IOC Container in ASP.NET Core 
+# SOLID / IOC / DI (Coding)
+- [x] SOLID Regeln 
+- [x] Vorteile von Lose Koppelungen 
+- [x] IOC Container in ASP.NET Core 
+- [x] Autofac in Console
+- [x] Autofac in ASP.NET Core WebAPI Projekt hinzugefügt 
 
-# Architekturansätze
-- [ ] Anwendungsarchitekturen
-- [ ] Client-Server
-- [ ] 3- und N-Tier-Systeme
-- [ ] REST vs. gRPC
-- [ ] Single Page Applications (SPAs)
-- [ ] Kommunikation mit HTTP-Diensten -> HttpClient in ASP.NET Core (WebAPI und MVC)
-- [ ] SignalR als Echtzeit-Peer-to-peer-Kommunikationsmedium -> APS.NET Core MVC + Blazor 
+# Architekturansätze (Theorie)
+- [x] Anwendungsarchitekturen
+- [x] Client-Server
+- [x] 3- und N-Tier-Systeme
+- [x] REST vs. gRPC
+- [x] Single Page Applications (SPAs)
+- [x] Kommunikation mit HTTP-Diensten -> HttpClient in ASP.NET Core (WebAPI und MVC)
+- [x] SignalR als Echtzeit-Peer-to-peer-Kommunikationsmedium -> APS.NET Core MVC + Blazor 
 
-# Architektur Frontend - Patterns
-- [ ] Model View ViewModel (MVVM)
-- [ ] Model-View-Controler (MVC)
-- [ ] Model-View-Presenter (MVP)
+# Architektur Frontend - Patterns (Coding)
+- [x] Model View ViewModel (MVVM)
+- [x] Model-View-Controler (MVC)
+- [x] Model-View-Presenter (MVP)
 
 
-
+Dienstag 
 # ASP.NET MVC (Server-seitiges .NET)
 - [ ] Architektur und Konzepte der modellgetriebenen Entwicklung
 - [ ] Aufbau eines Monolithen
 
-
-# Frameworks für Datenzugriff
-- [ ] EF Core
-- [ ] Repository
-- [ ] Unit of Work
-- [ ] Provider
-
-# Evaluierungsprojekte 
-- [ ] EF Core -> InMemoryDB für Evaluierungs Projekte 
-
-# Representational State Transfer (REST) Architektur
+# Representational State Transfer (REST) Architektur (Service Layer) 
 - [ ] Prinzipien
 - [ ] ASP.NET Core WebAPI
 - [ ] Swagger UI 
@@ -58,7 +50,18 @@ https://github.com/ppedvAG/Moderne_WebApplikationen_KW35_ppedv.git
 - [ ] Paging / DataShaping / Filter + Sorting
 - [ ] Open Data Protocol (OData 8.0)
 
-# Enterprise Architekture
-- [ ] CQRS mit MediatR und Memory Database
-- [ ] CleanArchitektur -> Onion Architektur mit CQRS/MediatR/Mapster/FluentValidator/EFCore/Repository+UnitOfWork -> Presnentation ist WebAPI 
+# Frameworks für Datenzugriff (DAL)
+- [ ] EF Core
+- [ ] Repository
+- [ ] Unit of Work
+- [ ] Provider (SqlClient und InMemoryDB)
+    - [ ] EF Core -> InMemoryDB für Evaluierungs Projekte 
 
+Di:
+- [ ] Was ist MediatR 
+- [ ] CQRS mit MediatR und Memory Database
+
+#Enterprise Architekture
+Mi: 
+- [ ] CleanArchitektur -> Onion Architektur mit CQRS/MediatR/Mapster/FluentValidator/EFCore/Repository+UnitOfWork -> Presnentation ist WebAPI 
+- [ ] gRPC vs. WebAPI 

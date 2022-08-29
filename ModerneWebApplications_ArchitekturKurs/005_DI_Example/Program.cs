@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            ICarService carService = new CarService();
+            carService.Repair(new MockCar()); //In Testphase kann ich mit 'Dummy-Objekten' verwenden und switche dann auf produktive Objekte um
+            carService.Repair(new Car());
+
         }
     }
 
@@ -42,7 +45,7 @@
         string Brand { get; set; }
         string Model { get; set; }
 
-        string PS { get; set; }
+        int PS { get; set; }
         
     }
 
@@ -58,11 +61,11 @@
         public int Id { get; set; }
         public string Brand { get; set; }
         public string Model { get; set; }
-        public string PS { get; set; }
+        public int PS { get; set; }
     }
 
     //Programmierer B: Tag 1-3 
-    public class ClassService : ICarService
+    public class CarService : ICarService
     {
         public void Repair(ICar car)
         {
@@ -73,7 +76,10 @@
     //Weiterer Vorteil gegenüber Feste Kopplung
     public class MockCar : ICar
     {
-
+        public int Id { get; set; } = 1;
+        public string Brand { get; set; } = "VW";
+        public string Model { get; set; } = "POLO";
+        public int PS { get; set; } = 123;
     }
     #endregion
 }

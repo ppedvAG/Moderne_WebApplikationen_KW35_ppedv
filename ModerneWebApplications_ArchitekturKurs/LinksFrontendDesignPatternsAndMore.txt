@@ -1,0 +1,8 @@
+
+Models + Datenübetragung zur UI
+https://ardalis.com/dto-or-poco/
+
+https://docs.microsoft.com/de-de/archive/msdn-magazine/2011/december/mvpvm-design-pattern-the-model-view-presenter-viewmodel-design-pattern-for-wpf
+
+https://medium.com/@fateslav/mvp-vs-mvvm-vs-mvpvm-9d626992c7bc
+
