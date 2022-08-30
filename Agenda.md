@@ -51,10 +51,10 @@ Dienstag
 - [ ] Open Data Protocol (OData 8.0)
 
 # Frameworks für Datenzugriff (DAL)
-- [ ] EF Core
-- [ ] Repository
+- [x] EF Core
+- [x] Repository
 - [ ] Unit of Work
-- [ ] Provider (SqlClient und InMemoryDB)
+- [x] Provider (SqlClient und InMemoryDB)
     - [ ] EF Core -> InMemoryDB für Evaluierungs Projekte 
 
 Di:
