@@ -55,7 +55,7 @@ Dienstag
 - [x] Repository
 - [ ] Unit of Work
 - [x] Provider (SqlClient und InMemoryDB)
-    - [ ] EF Core -> InMemoryDB für Evaluierungs Projekte 
+    - [x] EF Core -> InMemoryDB für Evaluierungs Projekte 
 
 Di:
 - [ ] Was ist MediatR 

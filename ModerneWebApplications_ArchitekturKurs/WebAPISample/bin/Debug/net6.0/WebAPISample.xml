@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPISample</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPISample.Controllers.ConventionsController.PostMovie(WebAPISample.Models.Movie)">
+            <summary>
+            Einfügen eines Filmes
+            </summary>
+            <param name="movie">Movie-Objekt</param>
+            <returns>Movie-Objekt mit Id</returns>
+        </member>
+        <member name="M:WebAPISample.Controllers.PaggingController.#ctor(WebAPISample.Data.MovieDbContext)">
+            <summary>
+            Konstruktor von PaggingController
+            </summary>
+            <param name="context"></param>
+        </member>
+    </members>
+</doc>
