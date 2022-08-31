@@ -7,9 +7,9 @@ https://github.com/ppedvAG/Moderne_WebApplikationen_KW35_ppedv.git
 
 # Konzepte moderner Webanwendungen
 
-- [ ] Anforderungen an Design und Usability
-- [ ] Echtzeitfähigkeit
-- [ ] Offline-Fähigkeit
+- [x] Anforderungen an Design und Usability
+- [x] Echtzeitfähigkeit
+- [x] Offline-Fähigkeit
 
 # SOLID / IOC / DI (Coding)
 - [x] SOLID Regeln 
@@ -39,15 +39,15 @@ Dienstag
 - [ ] Aufbau eines Monolithen
 
 # Representational State Transfer (REST) Architektur (Service Layer) 
-- [ ] Prinzipien
-- [ ] ASP.NET Core WebAPI
-- [ ] Swagger UI 
-- [ ] Swagger Client -> Ist der gut? Und wenn ja wie?
+- [x] Prinzipien
+- [x] ASP.NET Core WebAPI
+- [x] Swagger UI 
+- [x] Swagger Client -> Ist der gut? Und wenn ja wie?
 
-- [ ] Hypermedia as the Engine of Application State (HATEOAS)
-    - [ ] SourceCode zu HATEOAS
+- [x] Hypermedia as the Engine of Application State (HATEOAS)
+    - [x] SourceCode zu HATEOAS
 
-- [ ] Paging / DataShaping / Filter + Sorting
+- [x] Paging / DataShaping / Filter + Sorting
 - [ ] Open Data Protocol (OData 8.0)
 
 # Frameworks für Datenzugriff (DAL)
@@ -58,8 +58,8 @@ Dienstag
     - [x] EF Core -> InMemoryDB für Evaluierungs Projekte 
 
 Di:
-- [ ] Was ist MediatR 
-- [ ] CQRS mit MediatR und Memory Database
+- [x] Was ist MediatR 
+- [x] CQRS mit MediatR und Memory Database
 
 #Enterprise Architekture
 Mi: 

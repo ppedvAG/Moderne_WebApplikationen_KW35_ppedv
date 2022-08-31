@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Domain\bin\Debug\net6.0\MovieApp.Core.Domain.deps.json
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Domain\bin\Debug\net6.0\MovieApp.Core.Domain.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Domain\bin\Debug\net6.0\MovieApp.Core.Domain.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Core.Domain.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Core.Domain.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Core.Domain.AssemblyInfo.cs
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Core.Domain.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Domain\obj\Debug\net6.0\refint\MovieApp.Core.Domain.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Domain\obj\Debug\net6.0\MovieApp.Core.Domain.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Domain\obj\Debug\net6.0\ref\MovieApp.Core.Domain.dll

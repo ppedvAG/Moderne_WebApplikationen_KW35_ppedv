@@ -5,6 +5,7 @@ using MediatR;
 
 namespace CQRS_WITH_MEDIATR.Handlers
 {
+    //SYNTAX public class AddMovieHandler : IRequestHandler<COMMAND-PARAMETER, RÜCKGABETYP>
     public class AddMovieHandler : IRequestHandler<AddMovieCommand, Movie>
     {
         private readonly FakeDataStore _fakeDataStore;

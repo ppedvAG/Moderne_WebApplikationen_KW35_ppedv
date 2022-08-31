@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\bin\Debug\net6.0\MovieApp.Core.Persistence.deps.json
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\bin\Debug\net6.0\MovieApp.Core.Persistence.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\bin\Debug\net6.0\MovieApp.Core.Persistence.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\bin\Debug\net6.0\MovieApp.Core.Domain.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\bin\Debug\net6.0\MovieApp.Core.Domain.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\obj\Debug\net6.0\MovieApp.Core.Persistence.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\obj\Debug\net6.0\MovieApp.Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\obj\Debug\net6.0\MovieApp.Core.Persistence.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\obj\Debug\net6.0\MovieApp.Core.Persistence.AssemblyInfo.cs
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\obj\Debug\net6.0\MovieApp.Core.Persistence.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\obj\Debug\net6.0\MovieApp.Core.Persistence.csproj.CopyComplete
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\obj\Debug\net6.0\MovieApp.Core.Persistence.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\obj\Debug\net6.0\refint\MovieApp.Core.Persistence.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\obj\Debug\net6.0\MovieApp.Core.Persistence.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Persistence\obj\Debug\net6.0\ref\MovieApp.Core.Persistence.dll
