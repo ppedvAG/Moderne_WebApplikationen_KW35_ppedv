@@ -3,3 +3,13 @@ C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_Arc
 C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Application\obj\Debug\net6.0\MovieApp.Core.Application.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Application\obj\Debug\net6.0\MovieApp.Core.Application.AssemblyInfo.cs
 C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Application\obj\Debug\net6.0\MovieApp.Core.Application.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Application\bin\Debug\net6.0\MovieApp.Core.Application.deps.json
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Application\bin\Debug\net6.0\MovieApp.Core.Application.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Application\bin\Debug\net6.0\MovieApp.Core.Application.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Application\bin\Debug\net6.0\MovieApp.Core.Domain.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Application\bin\Debug\net6.0\MovieApp.Core.Domain.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Application\obj\Debug\net6.0\MovieApp.Core.Application.csproj.CopyComplete
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Application\obj\Debug\net6.0\MovieApp.Core.Application.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Application\obj\Debug\net6.0\refint\MovieApp.Core.Application.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Application\obj\Debug\net6.0\MovieApp.Core.Application.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Core.Application\obj\Debug\net6.0\ref\MovieApp.Core.Application.dll

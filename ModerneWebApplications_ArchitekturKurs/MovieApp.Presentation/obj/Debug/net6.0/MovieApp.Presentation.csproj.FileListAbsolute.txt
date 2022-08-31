@@ -1,0 +1,17 @@
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\bin\Debug\net6.0\MovieApp.Presentation.deps.json
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\bin\Debug\net6.0\MovieApp.Presentation.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\bin\Debug\net6.0\MovieApp.Presentation.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\bin\Debug\net6.0\MovieApp.Core.Application.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\bin\Debug\net6.0\MovieApp.Core.Domain.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\bin\Debug\net6.0\MovieApp.Core.Application.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\bin\Debug\net6.0\MovieApp.Core.Domain.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\obj\Debug\net6.0\MovieApp.Presentation.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\obj\Debug\net6.0\MovieApp.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\obj\Debug\net6.0\MovieApp.Presentation.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\obj\Debug\net6.0\MovieApp.Presentation.AssemblyInfo.cs
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\obj\Debug\net6.0\MovieApp.Presentation.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\obj\Debug\net6.0\MovieApp.Presentation.csproj.CopyComplete
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\obj\Debug\net6.0\MovieApp.Presentation.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\obj\Debug\net6.0\refint\MovieApp.Presentation.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\obj\Debug\net6.0\MovieApp.Presentation.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\MovieApp.Presentation\obj\Debug\net6.0\ref\MovieApp.Presentation.dll

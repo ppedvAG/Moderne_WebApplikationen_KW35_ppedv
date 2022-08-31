@@ -1,0 +1,80 @@
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\appsettings.json
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\gRPC.OData.Server.exe
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\gRPC.OData.Server.deps.json
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\gRPC.OData.Server.runtimeconfig.json
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\gRPC.OData.Server.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\gRPC.OData.Server.pdb
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.OData.Core.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.OData.ModelBuilder.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.Spatial.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.csproj.AssemblyReference.cache
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.AssemblyInfoInputs.cache
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.AssemblyInfo.cs
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.csproj.CoreCompileInputs.cache
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\scopedcss\bundle\gRPC.OData.Server.styles.css
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.csproj.CopyComplete
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\refint\gRPC.OData.Server.dll
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.pdb
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.genruntimeconfig.cache
+C:\Konferenz\gRPC und OData\grpc-odata-in-asp-net-core\gRPC.OData.Server\obj\Debug\net6.0\ref\gRPC.OData.Server.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\appsettings.json
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\gRPC.OData.Server.exe
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\gRPC.OData.Server.deps.json
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\gRPC.OData.Server.runtimeconfig.json
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\gRPC.OData.Server.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\gRPC.OData.Server.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.OData.Core.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.OData.ModelBuilder.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Microsoft.Spatial.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.AssemblyInfo.cs
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\scopedcss\bundle\gRPC.OData.Server.styles.css
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.csproj.CopyComplete
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\refint\gRPC.OData.Server.dll
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.pdb
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\gRPC.OData.Server.genruntimeconfig.cache
+C:\Aktueller Kurs\Moderne_WebApplikationen_KW35_ppedv\ModerneWebApplications_ArchitekturKurs\gRPC.OData.Server\obj\Debug\net6.0\ref\gRPC.OData.Server.dll

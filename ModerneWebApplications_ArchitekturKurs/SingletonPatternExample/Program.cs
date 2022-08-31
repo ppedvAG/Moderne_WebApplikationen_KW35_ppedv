@@ -1,5 +1,5 @@
 ﻿using System;
-namespace SingletonPatternEx
+namespace SingletonPatternExample
 {
     //Warum verwenden eine Singleton-Klasse -> sealed? 
 
@@ -26,7 +26,7 @@ namespace SingletonPatternEx
             }
         }
     }
-    
+
 
 
     public sealed class Singleton2
@@ -49,15 +49,15 @@ namespace SingletonPatternEx
 
     public sealed class Singleton3
     {
-         //We are using volatile to ensure that
-         //assignment to the instance variable finishes before it’s 
+        //We are using volatile to ensure that
+        //assignment to the instance variable finishes before it’s 
         //access.
 
         private static volatile Singleton3 instance;
-        private static object lockObject = new Object();
-        
+        private static object lockObject = new object();
+
         private Singleton3() { }
-        
+
         public static Singleton3 Instance
         {
 
@@ -77,7 +77,7 @@ namespace SingletonPatternEx
         }
     }
 
-class Program
+    class Program
     {
         static void Main(string[] args)
         {

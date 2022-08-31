@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package bookstores;
+
+import "google/protobuf/empty.proto";
+
+// The API manages shelves and books resources. Shelves contain books.
+service Bookstore {
+
+    // Returns a list of all shelves in the bookstore.
+    rpc ListShelves(google.protobuf.Empty) returns (ListShelvesResponse) {}
+
+    // Returns a list of books on a shelf.
+    rpc ListBooks(ListBooksRequest) returns (ListBooksResponse) {}
+}
+
+// A shelf resource.
+message Shelf {
+    int64 id = 1;
+    string theme = 2;
+}
+
+// A book resource.
+message Book {
+    int64 id = 1;
+    string author = 2;
+    string title = 3;
+}
+
+// Response to ListShelves call.
+message ListShelvesResponse {
+    repeated Shelf shelves = 1;
+}
+
+// Request message for ListBooks method.
+message ListBooksRequest {
+    int64 shelf = 1;
+}
+
+// Response message to ListBooks method.
+message ListBooksResponse {
+    repeated Book books = 1;
+}

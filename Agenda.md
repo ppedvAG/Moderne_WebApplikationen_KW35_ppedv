@@ -48,12 +48,15 @@ Dienstag
     - [x] SourceCode zu HATEOAS
 
 - [x] Paging / DataShaping / Filter + Sorting
+
+
 - [ ] Open Data Protocol (OData 8.0)
+- [ ] gRPC vs. WebAPI 
 
 # Frameworks für Datenzugriff (DAL)
 - [x] EF Core
 - [x] Repository
-- [ ] Unit of Work
+- [x] Unit of Work
 - [x] Provider (SqlClient und InMemoryDB)
     - [x] EF Core -> InMemoryDB für Evaluierungs Projekte 
 
@@ -63,5 +66,5 @@ Di:
 
 #Enterprise Architekture
 Mi: 
-- [ ] CleanArchitektur -> Onion Architektur mit CQRS/MediatR/Mapster/FluentValidator/EFCore/Repository+UnitOfWork -> Presnentation ist WebAPI 
-- [ ] gRPC vs. WebAPI 
+- [x] CleanArchitektur -> Onion Architektur mit CQRS/MediatR/Mapster/FluentValidator/EFCore/Repository+UnitOfWork -> Presnentation ist WebAPI 
+

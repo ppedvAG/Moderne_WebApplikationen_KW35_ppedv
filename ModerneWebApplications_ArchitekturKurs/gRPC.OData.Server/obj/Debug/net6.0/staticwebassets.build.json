@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RRHL1R6JifatTxbyDdchv70N5A+vhBXAKeeZOKOuHQE=",
+  "Source": "gRPC.OData.Server",
+  "BasePath": "_content/gRPC.OData.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "joGLivxdO66RA+8n1Dj4BEWTcHILstZRREZC7dMUVU9O21co1D63EQ+u8c5VcYw4kT9DiYPqhJzY/Z6AXZSzjw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\Moderne_WebApplikationen_KW35_ppedv\\ModerneWebApplications_ArchitekturKurs\\gRPC.OData.Client\\gRPC.OData.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\google.protobuf\\3.20.1\\google.protobuf.3.20.1.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\grpc.core.api\\2.45.0\\grpc.core.api.2.45.0.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\grpc.net.client\\2.45.0\\grpc.net.client.2.45.0.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\grpc.net.common\\2.45.0\\grpc.net.common.2.45.0.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\grpc.tools\\2.45.0\\grpc.tools.2.45.0.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

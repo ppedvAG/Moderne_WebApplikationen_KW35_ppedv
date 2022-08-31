@@ -28,6 +28,8 @@ namespace MovieApp.Infrastructure.Persistence.Repositories
         public Task Insert(Movie movie)
         {
             dbContext.Movies.Add(movie);
+            
+            //dbContext.SaveChanges(); //Hier ist ein UnitOfWork Pattern per Default dabei
             return Task.CompletedTask;
         }
     }
